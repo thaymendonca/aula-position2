@@ -1,0 +1,27 @@
+body{
+    margin: 0;
+}
+nav{
+    background: red;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 200px;
+    height: 600px;
+}
+main{
+    background: blue;
+    margin-left: 200px;
+    padding: 20px;
+    text-align: center;
+    margin-bottom: 58px;
+}
+footer{
+    background: green;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    text-align: center;
+    padding: 20px;
+}
